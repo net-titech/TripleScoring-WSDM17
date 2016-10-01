@@ -27,3 +27,4 @@ predict human evaluation given name and country/profession.
 1. 27th: List of natural language models; tripartite networks.
 2. 28th: Paper reading; discussion about Skipgram and challenges in the training data and small set of labeled data.
 3. 29th: Discussion about data preprocessing and prototype.
+4. 30th: Meeting is skipped.
